@@ -1,6 +1,6 @@
 {
   "name": "ztx",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
     "is-generator-function": "^1.0.7",
     "lodash": "^4.17.10",
     "request": "^2.87.0"

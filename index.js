@@ -1,7 +1,7 @@
-const Ztx = require('./lib/engine');
+const Engine = require('./lib/engine');
 const Spider = require('./lib/spider');
 
-const app = new Ztx();
+const core = new Engine();
 
-exports.Core = app;
+exports.Core = core;
 exports.Spider = Spider;
