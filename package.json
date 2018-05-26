@@ -1,6 +1,6 @@
 {
   "name": "ztx",
-  "version": "1.0.8",
+  "version": "1.0.15",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "is-generator-function": "^1.0.7",
